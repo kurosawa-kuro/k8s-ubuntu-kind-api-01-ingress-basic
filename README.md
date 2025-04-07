@@ -197,3 +197,5 @@ curl -v http://localhost/posts
 ---
 
 このままREADME化するのもOKなので、必要であればその形でも渡します！
+
+ディレクトリ：`~/dev/k8s-ubuntu-kind-api-02-helm
