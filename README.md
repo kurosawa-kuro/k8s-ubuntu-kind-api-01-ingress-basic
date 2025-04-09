@@ -1,9 +1,5 @@
 # k8s-ubuntu-kind-api-01-ingress-basic
 
-了解です！以下、ディレクトリ名を **`~/dev/k8s-ubuntu-kind-api-01-ingress-basic`** 前提にチュートリアルをリファクタリングした完全版です👇
-
----
-
 ## ✅ Ubuntu 22.04 + kind + ECR + Ingress で Express API を動かす最小構成チュートリアル  
 📁 パス前提：`~/dev/k8s-ubuntu-kind-api-01-ingress-basic`
 
