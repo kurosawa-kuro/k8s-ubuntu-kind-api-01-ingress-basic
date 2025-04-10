@@ -15,4 +15,4 @@ spec:
           service:
             name: k8s-api-sample
             port:
-              number: 80
+              number: 80 

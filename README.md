@@ -49,6 +49,8 @@ containerdConfigPatches:
 EOF
 
 kind create cluster --config kind-cluster.yaml
+
+kind get clusters
 ```
 
 > 💡 ポート80を使うので、**EC2のセキュリティグループでポート80を開放**しておくこと。
