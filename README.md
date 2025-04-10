@@ -186,17 +186,3 @@ kind get clusters
 
 ---
 
-## 🚀 次のステップ案
-
-| ステップ | 内容 |
-|----------|------|
-| `02-helm` | Helmチャート化による環境パッケージ化 |
-| `03-argo-cd` | GitOps導入によるデプロイ自動化 |
-| `04-operator` | カスタムコントローラによる自律運用 |
-| `05-observability` | Prometheus/Grafanaでの監視連携 |
-
----
-
-このままREADME化するのもOKなので、必要であればその形でも渡します！
-
-ディレクトリ：`~/dev/k8s-ubuntu-kind-api-02-helm
