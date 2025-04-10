@@ -170,6 +170,11 @@ curl -v http://localhost/posts
 
 ```
 
+```
+kind delete cluster
+kind get clusters
+```
+
 ---
 
 ## ✅ まとめ
