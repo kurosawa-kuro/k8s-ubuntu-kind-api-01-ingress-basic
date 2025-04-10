@@ -1,0 +1,7 @@
+apiVersion: example.example.com/v1
+kind: PodManager
+metadata:
+  name: sample-podmanager
+spec:
+  replicas: 3
+  restartPolicy: Always
